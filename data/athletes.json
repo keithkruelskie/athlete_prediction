@@ -1,0 +1,42 @@
+{   
+    "0": 
+        {
+            "race_date_list":"['2020-05-09']",
+            "age":35,
+            "gender":"F", 
+            "race_count":1, 
+            "training_elevation":1000, 
+            "max_hr":175
+        }
+    , 
+    "1": 
+        {
+            "race_date_list":"['2020-05-09']",
+            "age":35,
+            "gender":"F", 
+            "race_count":1, 
+            "training_elevation":1000, 
+            "max_hr":175
+        }
+    , 
+    "2": 
+        {
+            "race_date_list":"['2020-05-09']",
+            "age":35,
+            "gender":"F", 
+            "race_count":1, 
+            "training_elevation":1000, 
+            "max_hr":175
+        }
+    , 
+    "3":
+        {
+            "race_date_list":"['2018-05-05','2018-06-10', '2018-09-02', '2019-10-13', '2019-07-27', '2019-06-09']", 
+            "age":33, 
+            "gender":"M", 
+            "race_count":2, 
+            "training_elevation":5280, 
+            "max_hr":185
+        }
+    
+}
