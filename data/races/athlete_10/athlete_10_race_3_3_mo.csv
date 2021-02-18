@@ -1,0 +1,15 @@
+date,activity_type,favorite,title,distance,calories,time,avg_hr,max_hr,avg_run_cadence,max_run_cadence,avg_pace,best_pace,elev_gain,elev_loss,avg_stride_length,avg_vertical_ratio,avg_vertical_oscillation,training_stress_scoreâ,grit,flow,climb_time,bottom_time,min_temp,surface_interval,decompression,best_lap_time,number_of_laps,max_temp,athlete_id,filetype,is_race
+2018-11-30,Running,False,Tyler Running,3.00,582,00:38:06,176,197,137,154,0 days 00:12:41,0 days 00:07:44,230,197,0.93,0.0,0.0,0.0,0.0,0.0,38:06,0:00,0.0,0:00,No,00:00.00,4,0.0,10,garmin,0
+2018-12-09,Running,False,Dallas Running,13.21,"1,879",02:16:02,174,194,143,159,0 days 00:10:18,0 days 00:07:55,305,318,1.09,0.0,0.0,0.0,0.0,0.0,2:16:02,0:00,0.0,0:00,No,00:00.00,14,0.0,10,garmin,1
+2019-01-02,Treadmill Running,False,Treadmill Running,4.00,561,00:38:11,171,193,144,152,0 days 00:09:33,0 days 00:08:17,0,0,1.29,0.0,0.0,0.0,0.0,0.0,38:11,0:00,0.0,0:00,No,00:00.00,5,0.0,10,garmin,0
+2019-01-06,Running,False,Longview Running,7.03,"1,034",01:12:47,172,190,137,158,0 days 00:10:21,0 days 00:07:17,230,220,1.14,0.0,0.0,0.0,0.0,0.0,1:12:47,0:00,0.0,0:00,No,00:00.00,8,0.0,10,garmin,0
+2019-01-08,Running,False,Tyler Running,3.00,400,00:29:40,162,179,141,151,0 days 00:09:53,0 days 00:08:19,128,135,1.15,0.0,0.0,0.0,0.0,0.0,29:40,0:00,0.0,0:00,No,00:00.00,4,0.0,10,garmin,0
+2019-01-12,Running,False,Longview Running,9.02,"1,245",01:30:54,164,185,144,167,0 days 00:10:05,0 days 00:07:21,335,335,1.11,0.0,0.0,0.0,0.0,0.0,1:30:54,0:00,0.0,0:00,No,00:00.00,10,0.0,10,garmin,0
+2019-01-19,Treadmill Running,False,Treadmill Running,3.12,420,00:26:04,181,193,149,155,0 days 00:08:21,0 days 00:07:51,0,0,1.3,0.0,0.0,0.0,0.0,0.0,26:04,0:00,0.0,0:00,No,00:00.00,4,0.0,10,garmin,0
+2019-01-27,Treadmill Running,False,Treadmill Running,9.47,"1,316",01:29:02,172,190,141,151,0 days 00:09:24,0 days 00:08:13,0,0,1.22,0.0,0.0,0.0,0.0,0.0,1:29:02,0:00,0.0,0:00,No,00:00.00,10,0.0,10,garmin,0
+2019-01-30,Treadmill Running,False,Treadmill Running,2.30,287,00:20:25,165,184,141,149,0 days 00:08:54,0 days 00:07:59,0,0,1.28,0.0,0.0,0.0,0.0,0.0,20:25,0:00,0.0,0:00,No,00:00.00,3,0.0,10,garmin,0
+2019-01-30,Treadmill Running,False,Treadmill Running,0.00,0,00:00:01.8,89,89,0,0,0 days 00:00:00,0 days 00:00:00,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0:01.8,0:00,0.0,0:00,No,00:00.00,1,0.0,10,garmin,0
+2019-02-09,Running,False,Kilgore Running,11.00,"1,507",01:45:36,169,188,149,165,0 days 00:09:36,0 days 00:08:07,220,285,1.12,0.0,0.0,0.0,0.0,0.0,1:45:36,0:00,0.0,0:00,No,09:02.65,12,0.0,10,garmin,0
+2019-02-24,Running,False,Longview Running,8.51,"1,257",01:32:22,168,188,131,156,0 days 00:10:51,0 days 00:01:32,351,328,1.13,0.0,0.0,0.0,0.0,0.0,1:32:22,0:00,0.0,0:00,No,09:05.39,9,0.0,10,garmin,0
+2019-02-28,Treadmill Running,False,Treadmill Running,1.22,155,00:10:27,169,195,145,160,0 days 00:08:33,0 days 00:07:08,0,0,1.3,0.0,0.0,0.0,0.0,0.0,10:27,0:00,0.0,0:00,No,01:48.78,2,0.0,10,garmin,0
+2019-03-03,Running,False,Little Rock - Running,13.27,"1,902",02:17:19,170,188,150,160,0 days 00:10:21,0 days 00:07:53,305,312,1.04,0.0,0.0,0.0,0.0,0.0,2:17:19,0:00,0.0,0:00,No,02:27.13,14,0.0,10,garmin,1

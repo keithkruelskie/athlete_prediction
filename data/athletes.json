@@ -11,7 +11,7 @@
     , 
     "1": 
         {
-            "race_date_list":"['2017-01-15', '2016-09-18', '2019-06-02]",
+            "race_date_list":"['2017-01-15', '2016-09-18', '2019-06-02']",
             "age":60,
             "gender":"M", 
             "race_count":3, 
@@ -100,4 +100,33 @@
             "max_hr":163
         }
     ,
+    "10": 
+        {
+            "race_date_list":"['2018-10-27', '2018-11-22', '2018-12-09', '2019-03-03', '2019-09-01', '2019-10-26', '2019-12-15', '2020-02-09']",
+            "age":32,
+            "gender":"F", 
+            "race_count":8, 
+            "training_elevation":0, 
+            "max_hr":175
+        }
+    ,
+    "11": 
+        {
+            "race_date_list":"['2021-01-17']",
+            "age":30,
+            "gender":"F", 
+            "race_count":1, 
+            "training_elevation":0, 
+            "max_hr":171
+        }
+    ,
+    "12": 
+        {
+            "race_date_list":"['2020-08-15', '2020-07-11']",
+            "age":-1,
+            "gender":"M", 
+            "race_count":2, 
+            "training_elevation":5280, 
+            "max_hr":171
+        }
 }

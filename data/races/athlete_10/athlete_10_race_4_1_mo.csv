@@ -1,0 +1,16 @@
+date,activity_type,favorite,title,distance,calories,time,avg_hr,max_hr,avg_run_cadence,max_run_cadence,avg_pace,best_pace,elev_gain,elev_loss,avg_stride_length,avg_vertical_ratio,avg_vertical_oscillation,training_stress_scoreâ,grit,flow,climb_time,bottom_time,min_temp,surface_interval,decompression,best_lap_time,number_of_laps,max_temp,athlete_id,filetype,is_race
+2019-08-01,Running,False,Longview Running,4.10,599,00:40:25,168,181,145,155,0 days 00:09:52,0 days 00:07:54,46,46,1.12,0.0,0.0,0.0,0.0,0.0,40:25,0:00,0.0,0:00,No,00:53.17,5,0.0,10,garmin,0
+2019-08-02,Treadmill Running,False,Treadmill Running,3.00,417,00:30:41,154,173,147,155,0 days 00:10:14,0 days 00:08:16,0,0,1.27,0.0,0.0,0.0,0.0,0.0,30:41,0:00,0.0,0:00,No,04:37.79,4,0.0,10,garmin,0
+2019-08-04,Treadmill Running,False,Treadmill Running,6.12,864,01:00:01,162,182,146,155,0 days 00:09:48,0 days 00:09:41,0,0,1.07,0.0,0.0,0.0,0.0,0.0,1:00:01,0:00,0.0,0:00,No,08:16.67,6,0.0,10,garmin,0
+2019-08-06,Running,False,Longview Running,3.04,437,00:30:06,167,181,146,157,0 days 00:09:54,0 days 00:07:34,7,82,1.11,0.0,0.0,0.0,0.0,0.0,30:06,0:00,0.0,0:00,No,00:29.17,4,0.0,10,garmin,0
+2019-08-08,Treadmill Running,False,Treadmill Running,4.35,600,00:40:12,167,189,148,155,0 days 00:09:14,0 days 00:08:39,0,0,1.1,0.0,0.0,0.0,0.0,0.0,40:12,0:00,0.0,0:00,No,00:31.55,5,0.0,10,garmin,0
+2019-08-09,Treadmill Running,False,Treadmill Running,3.11,435,00:30:18,162,175,145,152,0 days 00:09:44,0 days 00:09:04,0,0,1.14,0.0,0.0,0.0,0.0,0.0,30:18,0:00,0.0,0:00,No,01:05.36,4,0.0,10,garmin,0
+2019-08-10,Treadmill Running,False,Treadmill Running,3.00,403,00:25:43,174,188,147,153,0 days 00:08:34,0 days 00:07:47,0,0,1.22,0.0,0.0,0.0,0.0,0.0,25:43,0:00,0.0,0:00,No,07:25.25,3,0.0,10,garmin,0
+2019-08-11,Treadmill Running,False,Treadmill Running,7.00,985,01:13:07,154,170,145,152,0 days 00:10:27,0 days 00:09:06,0,0,1.15,0.0,0.0,0.0,0.0,0.0,1:13:07,0:00,0.0,0:00,No,05:46.27,8,0.0,10,garmin,0
+2019-08-14,Treadmill Running,False,Treadmill Running,5.00,706,00:48:30,164,177,146,151,0 days 00:09:42,0 days 00:08:56,0,0,1.11,0.0,0.0,0.0,0.0,0.0,48:30,0:00,0.0,0:00,No,08:43.15,5,0.0,10,garmin,0
+2019-08-15,Treadmill Running,False,Treadmill Running,4.06,587,00:40:05,166,180,147,154,0 days 00:09:53,0 days 00:08:59,0,0,1.11,0.0,0.0,0.0,0.0,0.0,40:05,0:00,0.0,0:00,No,00:36.58,5,0.0,10,garmin,0
+2019-08-18,Running,False,Longview Running,8.25,"1,187",01:29:30,160,183,139,157,0 days 00:10:51,0 days 00:08:02,449,515,1.07,0.0,0.0,0.0,0.0,0.0,1:29:30,0:00,0.0,0:00,No,02:40.60,9,0.0,10,garmin,0
+2019-08-20,Treadmill Running,False,Treadmill Running,4.50,601,00:42:34,158,178,145,152,0 days 00:09:27,0 days 00:09:02,0,0,1.09,0.0,0.0,0.0,0.0,0.0,42:34,0:00,0.0,0:00,No,02:04.04,5,0.0,10,garmin,0
+2019-08-21,Running,False,Longview Running,6.50,975,01:10:09,164,185,137,158,0 days 00:10:47,0 days 00:08:21,194,269,1.08,0.0,0.0,0.0,0.0,0.0,1:10:09,0:00,0.0,0:00,No,05:18.14,7,0.0,10,garmin,0
+2019-08-26,Treadmill Running,False,Treadmill Running,7.00,"1,020",01:08:35,165,182,145,150,0 days 00:09:48,0 days 00:08:41,0,0,1.2,0.0,0.0,0.0,0.0,0.0,1:08:35,0:00,0.0,0:00,No,03:52.23,8,0.0,10,garmin,0
+2019-09-01,Running,False,Yamhill County Running,13.15,"1,886",02:06:41,168,189,147,158,0 days 00:09:38,0 days 00:07:28,463,591,1.14,0.0,0.0,0.0,0.0,0.0,2:06:41,0:00,0.0,0:00,No,01:22.61,14,0.0,10,garmin,1
