@@ -128,5 +128,14 @@
             "race_count":2, 
             "training_elevation":5280, 
             "max_hr":202
+        },
+    "13": 
+        {
+            "race_date_list":"['2017-06-18', '2017-08-27', '2018-05-27', '2018-07-29]",
+            "age":-1,
+            "gender":"F", 
+            "race_count":4, 
+            "training_elevation":200, 
+            "max_hr":175
         }
 }
